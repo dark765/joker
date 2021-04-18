@@ -98,7 +98,7 @@ echo -e "\e[36m"
 done
 ]])  
 file:close()  
-file = io.open("NG", "w")  
+file = io.open("JO", "w")  
 file:write([[
 #!/usr/bin/env bash
 cd $HOME/JOKER
